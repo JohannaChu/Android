@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_height">高度 (cm)</string>
+    <string name="bmi_weight">重量 (kg)</string>
+    <string name="bmi_btn">现在查看BMI报告</string>
+    <string name="bmi_result">你的BMI指数是</string>
+    <string name="bmi_warning">高度/重量 不能为空</string>
+    <string name="advice_light">你需要更多的卡路里，最好多吃点饭</string>
+    <string name="advice_average">你的体重非常标准!</string>
+    <string name="advice_heavy">体重超标了，多运动一下吧!</string>
+    <string name="menu_settings">设置</string>
+    <string name="about_button">关于BMI</string>
+    <string name="about_msg">BMI = 身高体重指数 = 高度(m) / 重量(kg) ^
+2; BMI 在 20 至 25 之间是标准的。</string>
+    <string name="menu_about">关于BMI</string>
+    <string name="menu_wiki">BMI维基</string>
+    <string name="menu_exit">离开</string>
+    <string name="ok">确定</string>
+</resources>

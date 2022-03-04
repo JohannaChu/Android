@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:17:1-44:12
+	package
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:18:7-46
+		INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:20:7-32
+		INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:19:7-30
+		INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:22:5-73
+INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:22:5-73
+INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:22:5-73
+INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:22:5-73
+INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:22:5-73
+	android:targetSdkVersion
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:22:41-70
+		INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:22:15-40
+		INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:23:5-43:19
+	android:label
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:23:18-50
+	android:icon
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:24:18-54
+activity#com.example.android.lifecycle.ActivityA
+ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:26:9-33:20
+	android:launchMode
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:26:19-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.android.lifecycle.ActivityB
+ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:35:9-47
+	android:name
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:35:19-44
+activity#com.example.android.lifecycle.ActivityC
+ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:37:9-47
+	android:name
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:37:19-44
+activity#com.example.android.lifecycle.DialogActivity
+ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:39:9-41:20
+	android:theme
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:40:19-62
+	android:name
+		ADDED from D:\myApp\activity-lifecycle1\app\src\main\AndroidManifest.xml:39:19-49

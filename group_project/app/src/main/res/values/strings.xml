@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">See through your Destiny</string>
+    <string name="Chinese_chartBtn">Chinese chart</string>
+    <string name="constellationBtn">constellation</string>
+    <string name="tarotBtn">tarot</string>
+    <string name="pokerBtn">poker</string>
+    <string name="resultBtn">Show the result</string>
+    <string name="result1">1</string>
+    <string name="result2">2</string>
+</resources>

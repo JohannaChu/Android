@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">井字棋</string>
+    <string name="current_level">当前难度：</string>
+    <string name="You_go_first">你先开始</string>
+    <string name="Androids_turn">安卓的回合</string>
+    <string name="your_turn">你的回合</string>
+    <string name="tie">死局！</string>
+    <string name="You_won">你赢了</string>
+    <string name="Android_won">安卓赢了</string>
+    <string name="Your_win_time">胜：</string>
+    <string name="Android_win_time">负：</string>
+    <string name="tie_time">平：</string>
+    <string name="Easy">简单</string>
+    <string name="Hard">困难</string>
+    <string name="Expert">专家</string>
+    <string name="Start_a_New_Game">开始新的一局</string>
+    <string name="exit">退出</string>
+    <string name="backMusic">背景音乐</string>
+    <string name="stopMusic">停止音乐</string>
+    <string name="clear_and_restart">清除记录并重新开始</string>
+</resources>
